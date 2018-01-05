@@ -1,4 +1,4 @@
-* [Content](SUMMARY.ms)
+* [Content](SUMMARY.md)
 
 ## Essays
 * [Celebrities of Myanmar](Celebrities of Myanmar.md)
