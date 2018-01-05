@@ -1,6 +1,11 @@
-![NwePhyo](NwePhyo.jpg) - ![PyaePhyo](PyaePhyo.jpg)
+![NwePhyo](NwePhyo.jpg)
 
-**[Nwe Phyo (Cherryland)](AUTHOR.md)** is the pen name of [Pyae Phyo](https://www.facebook.com/profile.php?id=100006097052369), a
+**[Nwe Phyo (Cherryland)](AUTHOR.md)** is the pen name of
+
+![PyaePhyo](PyaePhyo.jpg)
+
+[Pyae Phyo](https://www.facebook.com/profile.php?id=100006097052369), a
+
 * Freelance Author,
 * Playwright,
 * Poet and
