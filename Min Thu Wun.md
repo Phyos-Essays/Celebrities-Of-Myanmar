@@ -23,5 +23,4 @@ I will suffer a lapse in my work when I mind their customs. When I live in my ow
 In the fireplace, the heat is gradually decreasing. Winter’s stormy wind is now calm. The time has come to midnight. I, accompanying to a hot-water bottle, am also trying to fall asleep under thick blankets in my stuffy room.
 
 ----
-Translated by Nwe Phyo (Cherryland)
-
+Translated by **[Nwe Phyo (Cherryland)](AUTHOR.md)**

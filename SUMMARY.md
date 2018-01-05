@@ -1,3 +1,4 @@
+* [Author](AUTHOR.md)
 * [Content](SUMMARY.md)
 
 ## Essays
@@ -15,4 +16,4 @@
 * [Zaw Gyi](Zaw Gyi.md)
 * [To Dispel Anger](To Dispel Anger.md)
 
-written by **Nwe Phyo (Cherry land)**
+written by **[Nwe Phyo (Cherryland)](AUTHOR.md)**

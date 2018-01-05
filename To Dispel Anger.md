@@ -1,4 +1,4 @@
-﻿“To Dispel Anger”
+“To Dispel Anger”
 
 It is the law of nature that
 One’s sure to lose what he gets
@@ -23,7 +23,6 @@ Revenge, with my due respect
 Thee, as the blood is impermane’t
 Flows in my body, as eleme’ts.
 
-Translated by Nwe Phyo (Cherry land) in the honor of Anantasuriya the great poet
-
-
-
+----
+Translated by **[Nwe Phyo (Cherryland)](AUTHOR.md)**
+in the honor of the great poet ***Anantasuriya***

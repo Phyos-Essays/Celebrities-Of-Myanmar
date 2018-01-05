@@ -73,3 +73,6 @@ Ba Htun, asking anything, is having his dinner, taking a glance very often to th
 “Quiet place, isn’t it? But the patient feels alone. Are you two alone?”
 
 “Right now, we two are alone. The two young housemaids have gone to their native. By the way, you should sleep on the dais. It is good for you that you can take a look to your car.” she says and makes the bed on the dais.
+
+----
+Translated by **[Nwe Phyo (Cherryland)](AUTHOR.md)**

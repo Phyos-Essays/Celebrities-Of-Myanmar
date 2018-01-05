@@ -30,4 +30,5 @@ Kyat wine (setting up game cocks to fight) is a popular ritual in Myanmar. It is
 
 So, the one thing to keep in mind before kicking off  a tea time  is you won’t be able to count zealously Kyat,Mat,Mhuu,Pya,Pound,Shilling,Penny,and Dollar with precise statics. In other words, you will be neither the ignorant, arrogant and petulant follower after money nor the power-mad person who is after the power, hectoring the other.
 
-Translated by Nwe Soe (Cherryland)
+----
+Translated by **[Nwe Phyo (Cherryland)](AUTHOR.md)**

@@ -10,5 +10,6 @@ Dr. Htin Aung was born in Bago in May, 1909. He was famous as the Rector of Yang
 Daw Khin Myo Chit, one of the Myanmar's Celebrities who have been famous today, was a famous female writer and editor of the Dagon Magazine, The Myanmar Journal and The Oway in Myanmar's literature of 21st century. She was born in Sagain in May, 1915. She started writing short stories in 1934. She graduated from University of Yangon in 1952 and served as Features Editor in The Guardian Daily when she began witing short stories and articles in English. The 13 Carat Diamond which appeared first in The Guardian Daily Magazine was included in Fifty Great Oriental Stories a Bantam Classic published in the U.S.A. and Canada. It was also translated into German, Italian, Gujarati and Yugoslav. Another short story, Her Infinitive Variety, won a Horizone prize in a contest among Asian countries. The Four Puppers, a folk tale, was published in Folk Tales Of Asia, sponsored by the Asian Cultural Centre for UNESCO. She wrote many English Books and her english publications include Anawrahta of Burma, Colorful Burma, Enled, Flowers and Festivals Round the Burmese Year, Stories and Sketches of Myanmar and Quest for Peace, which was serialized in the Working People's Daily while she was on the staff of that paper, is largely autobiographic. Although she died in Yangon in 1999, she has been famous and as a celebrity among Myanmar's literature.
 
 ----
-WrittenBy PyaePhyo
-TypedBy & AnnotatedBy AndreasPannewitz on 2015-07-11
+WrittenBy **[Nwe Phyo (Cherryland)](AUTHOR.md)**
+
+Typed & Annotated AndreasPannewitz on 2015-07-11

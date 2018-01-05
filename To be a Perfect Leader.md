@@ -7,3 +7,6 @@ Very recent years ago, good governance and clean governance were notably said fr
 In saying good governance, a leader or a group of leaders need to be perfect ones.
 
 In leading an organization; from a country to a family, the team which is led by a perfect leader will definitely be more prosperous.
+
+----
+Written by **[Nwe Phyo (Cherryland)](AUTHOR.md)**

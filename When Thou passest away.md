@@ -17,4 +17,4 @@
 	Also be effulgently left.
 
 ----
-Nwe Phyo (Cherryland)
+Written by **[Nwe Phyo (Cherryland)](AUTHOR.md)**

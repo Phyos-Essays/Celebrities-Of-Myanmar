@@ -21,5 +21,4 @@ Of course, when we see there, bushes, banyan trees, fields of corns, peppers and
 It’s getting dark. Glinting light appears at Sagaing Hill. We see the artists are finishing their works when we take the route we walked over. They are full with great happiness for they could be able to paint the scenery which appears in their Katina (circular spot to concentrate on) on their sketch pads. They don’t look sorry for missing the chance to see the place where Ava palace once situated. Whether Ava palace is glorious or not, for them, they feel there is nothing to do in its home affairs. They just concentrate on such delightful scenery which will be seen in every evening of winter.
 
 ----
-Translated by Nwe Phyo (Cherryland)
-
+Translated by **[Nwe Phyo (Cherryland)](AUTHOR.md)**
