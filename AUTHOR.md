@@ -6,10 +6,8 @@
 
 who studied English-language literature at 
 
-![](https://upload.wikimedia.org/wikipedia/en/d/d5/Yadanabon_University_Logo.png)
+![Yadanabon University Mandalay](https://upload.wikimedia.org/wikipedia/en/d/d5/Yadanabon_University_Logo.png)
 
 [Yadanabon University Mandalay](http://www.ydbu.edu.mm/)
-
-( [Home](http://www.yadanabonuniversity.com/)
- [WikiPedia](https://en.wikipedia.org/wiki/Yadanabon_University)
- [FaceBook](https://www.facebook.com/YadanabonUniversityOfficial) )
+( [WikiPedia](https://en.wikipedia.org/wiki/Yadanabon_University)
+ [FaceBook](https://www.facebook.com/YadanabonUniversityOfficial) [@yadanabonuniversitymdy](https://www.facebook.com/yadanabonuniversitymdy) )
