@@ -1,5 +1,6 @@
-## Essays
+by **Nwe Phyo (Cherry land)**
 
+## Essays
 * [Celebrities of Myanmar](Celebrities of Myanmar.md)
 * [The Real Man](The Real Man.md)
 * [To be a Perfect Leader](To be a Perfect Leader.md)
@@ -14,4 +15,4 @@
 * [Zaw Gyi](Zaw Gyi.md)
 * [To Dispel Anger](To Dispel Anger.md)
 
-written by ***Nwe Phyo (Cherry land)***
+written by **Nwe Phyo (Cherry land)**
