@@ -1,5 +1,6 @@
 * [Content](SUMMARY.md)
 * [Author](AUTHOR.md)
+* [Copyright Notice](CopyrightNotice.md)
 
 ## Essays
 * [Celebrities of Myanmar](Celebrities of Myanmar.md)
@@ -11,10 +12,11 @@
 * [Sprigs of light brown Eugenia](Sprigs of light brown Eugenia.md)
 
 ## Translations
-* [Goodwill or Suffering](Goodwill or Suffering.md)
+* [Goodwill or Suffering - by Takkatho Min Maw](Goodwill or Suffering.md)
+* [Different People in Different Culture - by Min Thu Wun](Min Thu Wun.md)
+* [Zaw Gyi’s Literary Discussion or Tea Time](Zaw Gyi.md)
+
 * [Ava seen in the Twilight](Ava seen in the Twilight.md)
-* [Min Thu Wun](Min Thu Wun.md)
-* [Zaw Gyi](Zaw Gyi.md)
 * [To Dispel Anger](To Dispel Anger.md)
 
 written by **[Nwe Phyo (Cherryland)](AUTHOR.md)**
