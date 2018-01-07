@@ -3,7 +3,7 @@
 Environment mends people in some way.
 It mends more immature and young people than experienced one.
 Than the young, it mends more inexperienced children.
-By chances, i estimate the relationship between children and their environment.
+By chances, I estimate the relationship between children and their environment.
 These children imitate their environment.
 
 For example, look the children living in a police station.
@@ -31,7 +31,7 @@ and when I see incapable ones, I feel down-hearted.
 
 Last year (1963-1964), I left Yangon for mawlamyaing very often and vice versa.
 The times I visited there was so many.
-Every times, i took train.
+Every times, I took train.
 It was so boring that I gazed somewhere when I felt bored on the train.
 Along the way, creeks, ponds, fields, and golden pagodas could be found.
 But, these views could not draw my attention every times.
