@@ -1,5 +1,5 @@
-* [Author](AUTHOR.md)
 * [Content](SUMMARY.md)
+* [Author](AUTHOR.md)
 
 ## Essays
 * [Celebrities of Myanmar](Celebrities of Myanmar.md)
@@ -11,6 +11,7 @@
 * [Sprigs of light brown Eugenia](Sprigs of light brown Eugenia.md)
 
 ## Translations
+* [Goodwill or Suffering](Goodwill or Suffering.md)
 * [Ava seen in the Twilight](Ava seen in the Twilight.md)
 * [Min Thu Wun](Min Thu Wun.md)
 * [Zaw Gyi](Zaw Gyi.md)
