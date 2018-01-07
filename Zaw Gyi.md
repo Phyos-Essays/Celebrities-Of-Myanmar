@@ -1,4 +1,6 @@
-# Zaw Gyi’s Literary Discussion or Tea Time
+## Zaw Gyi’s Literary Discussion
+or
+## Tea Time
 
 	“If thou hast a cup of green tea,
 	Truly, the glory will be brought,

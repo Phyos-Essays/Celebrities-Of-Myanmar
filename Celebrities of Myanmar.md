@@ -1,4 +1,4 @@
-# Celebrities-Of-Myanmar
+## Celebrities-Of-Myanmar
 
 If a person is famous, he or she is called a celebrity. In Oxford learner's dictionary, celebrity means a famous person. In each country, there are many celebrities in politic, economy, diplomacy and other like art, inventions etc. In our country, Myanmar, there are many famous persons and were celebrities in history.
 
