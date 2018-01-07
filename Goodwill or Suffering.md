@@ -29,7 +29,7 @@ and their future becomes as bright as stars in the sky.
 According to my habit, I feel cheerful when I see promising children
 and when I see incapable ones, I feel down-hearted.
 
-Last year (1963-1964), I left Yangon for mawlamyaing very often and vice versa.
+Last year (1963-1964), I left Yangon for Mawlamyaing very often and vice versa.
 The times I visited there was so many.
 Every times, I took train.
 It was so boring that I gazed somewhere when I felt bored on the train.
@@ -67,22 +67,16 @@ Along my journey, I was thinking about the future of those children.
 
 There are more than six trains which passed these villages.
 These kids will only be waiting for trains as they realize they can get money or something edible else.
-For them, study times, play times and
-school are less interesting than the time
-trains arrive at their villages. Besides,
-the bad concept that they can fulfill their
-hunger without tireless, will be in their
-mind. then, the bad mind; not having any
-intention to rely on self, not realizing to
-learn and study, unknowing to work for
-life, will destroy their future. that the
-children’s future is ruined means the
-future of our nation is destroyed.
+For them, study times, play times and school are less interesting than the time trains arrive at their villages.
+Besides, the bad concept that they can fulfill their hunger without tireless, will be in their mind.
+Then, the bad mind; not having any intention to rely on self, not realizing to learn and study, unknowing to work for life, will destroy their future.
+That the children’s future is ruined means the future of our nation is destroyed.
 
 We Myanmar can be proud of being generous and charitable.
 However, we donate only with a belief “If I offer something, I will achieve good deeds”.
 They satisfy with that idea.
-This satisfaction depends only on the temporary delight, happiness, and being pleased of the children they offered but not on lifelong delight, happiness, and being pleased. they seem not to notice that fact.
+This satisfaction depends only on the temporary delight, happiness, and being pleased of the children they offered but not on lifelong delight, happiness, and being pleased.
+They seem not to notice that fact.
 
 Anyway, I don’t want to comment on the goodwill of benefactors.
 It can be said that it is noble.
