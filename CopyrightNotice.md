@@ -1,6 +1,6 @@
 
 Copyright © 2017 Pyae Phyo -
-Copyleft ([ɔ](https://copyleft.org/)) 2017 Nwe Phyo (Cherry land)
+Copyleft ([ɔ](https://copyleft.org/)) 2017 Nwe Phyo (Cherryland)
 
 ----
 
@@ -18,7 +18,7 @@ or under a
 [CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 ----
- 
+
 [(ɔ)](https://en.wikipedia.org/wiki/Copyleft) - [What is this all about?](https://opensource.com/resources/what-is-copyleft)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/64px-Cc-zero.svg.png) [CC-zero](https://creativecommons.org/licenses/zero/1.0/)
