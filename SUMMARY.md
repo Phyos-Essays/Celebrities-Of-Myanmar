@@ -1,5 +1,6 @@
 * [Content](SUMMARY.md)
 * [Author](AUTHOR.md)
+* [A brief biography of the author](A brief biography of the author.md)
 * [Copyright Notice](CopyrightNotice.md)
 
 ## Essays
