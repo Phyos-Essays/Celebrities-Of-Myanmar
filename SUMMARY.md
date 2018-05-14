@@ -1,8 +1,3 @@
-* [Content](SUMMARY.md)
-* [Author](AUTHOR.md)
-* [A brief biography of the author](A brief biography of the author.md)
-* [Copyright Notice](CopyrightNotice.md)
-
 ## Essays
 * [Celebrities of Myanmar](Celebrities of Myanmar.md)
 * [The Real Man](The Real Man.md)
@@ -22,3 +17,11 @@
 * [The Poem in a Museum](The Poem in a Museum.md)
 
 written by **[Nwe Phyo (Cherryland)](AUTHOR.md)**
+
+----
+* [About the author](AUTHOR.md)
+* [A brief biography of the author](A brief biography of the author.md)
+
+----
+* [Copyright Notice](CopyrightNotice.md)
+
