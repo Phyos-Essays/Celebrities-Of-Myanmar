@@ -1,4 +1,5 @@
 ## Zaw Gyi’s Literary Discussion
+
 or
 ## Tea Time
 
@@ -10,7 +11,7 @@ This quotation mentioned above is taken from a Myanmar traditional poem called L
 
 According to Myanmar custom, the tea time is in the morning. The place to have green tea is the Eain-Oo-Khan (Eastern part of a house).So, the poet seems to describe that having a cup of green tea is auspicious. Moreover, as having green tea means grouping together more than three or four men rather than having alone, more than a piece of idea are available for more than three or four men are being gathered. It will be easier for whether solving the problems, or considering some issue as it means one man with one idea. So, the poet also seems to say having green tea will make the great idea accomplished.
 
-Tea time is a kind of round table discussion. However, it partially differs from that meaning. Saying discussion, it may mean political discussion or a way of challenging before negotiation .It may apparently mean more formal with strict rules and regulations. So, tea time sounds emotionally uncomfortable. And, of course, it is even to be afraid of .Tea time is actually unaware of both politics and challenging each other in formal ways with table manners. It is simply meant to be more free, more comfortable and relaxed. Besides, there is quid pro quo, tolerance, affection and open conversation .These ways of saying are under the term “Tea time”.
+Tea time is a kind of round table discussion. However, it partially differs from that meaning. Saying discussion, it may mean political discussion or a way of challenging before negotiation. It may apparently mean more formal with strict rules and regulations. So, tea time sounds emotionally uncomfortable. And, of course, it is even to be afraid of .Tea time is actually unaware of both politics and challenging each other in formal ways with table manners. It is simply meant to be more free, more comfortable and relaxed. Besides, there is quid pro quo, tolerance, affection and open conversation .These ways of saying are under the term “Tea time”.
 
 Hearing the word “Tea time”, it can be seen that sitting around centralizing the tea pot, saying effusive words each other, joyful conversations, and the freedom for everyone to take part in discussion and to leave whenever they wish. In truth, “Tea time” is a formal discussion though it seems to be undisciplined.
 
@@ -22,7 +23,7 @@ This custom can also be found as an example in the novel “Mhar-Daw-Bhone”by 
 
 One day, I dropped in a tea time. Actually, there was neither tea pot nor hors d’oeuvre .However; it was same as the tea time. It was preferable to have green tea. In that tea time, the participants were over twenties, over fifties, over thirties, retired men, teachers, writers and even students.
 
-What they were conferring were not very well organized and they were discussing this and that.The participants did not come on the formal appointment and they just joined the gathering, without thinking already what to say in it but they just came across that gathering.
+What they were conferring were not very well organized and they were discussing this and that. The participants did not come on the formal appointment and they just joined the gathering,without thinking already what to say in it but they just came across that gathering.
 
 In that discussion, the participants sometimes journey back to the history.
 
