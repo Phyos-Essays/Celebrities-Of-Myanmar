@@ -1,5 +1,9 @@
 ## Introduction
 
-Essays, Poems and Translations of Brumese Literature into English language
+Please enjoy this collection of original _Essays_ and _Poems_ written by **[Nwe Phyo (Cherryland)](AUTHOR.md)** as well as his _Translations_ of selected famous Burmese literature into English language.
 
-![http://creativecommons.org/licenses/by-sa/4.0/](https://i.creativecommons.org/l/by-sa/4.0/88x31.png) by **Nwe Phyo (Cherryland)**
+---
+
+[Copyright](CopyrightNotice.md) 2017 [Pyae Phyo](AUTHOR.md). All Rights Reserved.
+
+Use of this work is governed by a [Creative Commons](https://www.creativecommons.org/) [license](LICENSE.md) - more details [here](CopyrightNotice.md).
