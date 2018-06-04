@@ -19,10 +19,5 @@
 written by **[Nwe Phyo (Cherryland)](AUTHOR.md)**
 
 ---
-## About the author
 * [About the author](AUTHOR.md)
 * [A brief biography of the author](A brief biography of the author.md)
-
-## Copyright Notice
-* [Copyright Notice](CopyrightNotice.md)
-
