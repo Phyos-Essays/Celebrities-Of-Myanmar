@@ -1,11 +1,13 @@
 ## A brief biography of the author
 
-I am Maung Pyae Phyo. I am a third year Honors student specializing in English at Yadanabon University, Amarapura. I was born in Anisakhan, Pyin Oo Lwin, Mandalay Region in 1997. My parents are U Tin Maung Swe and Daw Khin Aye Than.
+My name is *Pyae Phyo* - and as I am still young, my people call me *Maung Pyae Phyo*.
 
-I passed my matriculation exam in 2012. Since the end of 2012, I had been studying at English Department of Yadanabon University.
+At [Yadanabon University, Amarapura](http://www.ydbu.edu.mm/) I am a Honors student specializing in English .
 
-In August of 2014, I founded an academic group called Society of English Literature and Language to practice English better together. This society is still well working in our department for students.
+In 1997 I was born in Anisakhan, [Pyin Oo Lwin](https://en.m.wikipedia.org/wiki/Pyin_Oo_Lwin), Mandalay Region. My parents are U Tin Maung Swe and Daw Khin Aye Than.
 
-I often write articles to cover in newspapers. Most of them are in English and some of them are translated versions of renowned essays by famous Myanmar writers.
+In 2012 I passed my matriculation exam, and since then I had been studying at the English Department of [Yadanabon University](http://www.ydbu.edu.mm/).
 
-Now, I live in Anisakhan and am writing articles, essays ,and poetry in English to publish in some periodicals.
+In August 2014 I founded an academic group called the *Society of English Literature and Language* to practice English together. This society is well working in our department for our students.
+
+Now, living in Anisakhan, I often write articles: *essays* and *poems* in English, and I *translate* renowned essays of famous Myanmar writers - published in selected periodicals and newspapers.
