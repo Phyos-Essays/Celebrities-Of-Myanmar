@@ -1,0 +1,4 @@
+## The Role of Buddhist Monks in Peacekeeping Processes during the Reign of Myanmar Monarchs
+
+Our world of today is being threatened with religious conflicts, violent riots, nuclear weapons, chemical and biological weapons, ceaseless civil wars and any other disasters. A lot of countries in that world are facing such kinds of unsolvable problems and the key to that disasters is undiscoverable.Each country is with more than one belief though some religion is the major one in other nations. The four major beliefs in the world are Hinduism, Buddhism, Christianity, and Islam.
+The leaders of each religion preach their followers to have good mind,to be to
