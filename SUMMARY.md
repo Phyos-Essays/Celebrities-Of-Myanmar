@@ -16,6 +16,7 @@
 * [Goodwill or Suffering - by Takkatho Min Maw](Goodwill or Suffering.md)
 * [Different People in Different Culture - by Min Thu Wun](Min Thu Wun.md)
 * [Zaw Gyi’s Literary Discussion or Tea Time](Zaw Gyi.md)
+---
 
 * [Ava seen in the Twilight](Ava seen in the Twilight.md)
 * [To Dispel Anger](To Dispel Anger.md)
