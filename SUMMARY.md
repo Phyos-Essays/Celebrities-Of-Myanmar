@@ -15,7 +15,7 @@
 
 * [Goodwill or Suffering - by Takkatho Min Maw](Goodwill or Suffering.md)
 * [Different People in Different Culture - by Min Thu Wun](Min Thu Wun.md)
-* [Zaw Gyiâ€™s Literary Discussion or Tea Time](Zaw Gyi.md)
+* [Zaw GyiÃ¢â‚¬â„¢s Literary Discussion or Tea Time](Zaw Gyi.md)
 ---
 
 * [Ava seen in the Twilight](Ava seen in the Twilight.md)
@@ -39,6 +39,6 @@ written by **[Nwe Phyo (Cherryland)](AUTHOR.md)**
 
 ---
 
-[Copyright](LICENSE.md) © 2014-2018 [Pyae Phyo](A brief biography of the author.md). All Rights Reserved.
+[Copyright](LICENSE.md) Â© 2014-2018 [Pyae Phyo](A brief biography of the author.md). All Rights Reserved.
 
-Use of this work is governed by the [*CC BY-NC-ND*](https://creativecommons.org/licenses/by-nc-nd/4.0/ "CC BY-NC-ND") [Creative Commons](https://www.creativecommons.org/ "CreativeCommons.org") [Attribution-NonCommercial-NoDerivs 4.0 International Public License](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode "CC BY-NC-ND").![CC BY-NC-ND](cc-by-nc-nd-76x22.png)
+Use of this work is governed by theÂ [*CC BY-NC-ND*](https://creativecommons.org/licenses/by-nc-nd/4.0/Â "CC BY-NC-ND")Â [Creative Commons](https://www.creativecommons.org/Â "CreativeCommons.org") [Attribution-NonCommercial-NoDerivs 4.0 International Public License](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcodeÂ "CC BY-NC-ND").![CC BY-NC-ND](cc-by-nc-nd-76x22.png)

@@ -36,10 +36,10 @@ Then, young children become isolated ones from society and they become less inte
 When they grow up, they become adolescents or youths, their addiction to technical inventions has also grown up with them.
 In earlier times, youths liked to gather around at some place and discuss some informative issues, like politics, economics, beliefs, and also world affairs.
 They shared their views frankly and friendly and they enjoyed up-to-date information from each other.
-Once, café was a common place for them to make appointments and it was a knowledge-sharing place.
-Youths discussed some interesting issues else and big ideas came from cafés.
-Industrial revolution started from a café, and a lot of changes started from discussions at cafés.
+Once, cafÃ© was a common place for them to make appointments and it was a knowledge-sharing place.
+Youths discussed some interesting issues else and big ideas came from cafÃ©s.
+Industrial revolution started from a cafÃ©, and a lot of changes started from discussions at cafÃ©s.
 Youths got so many invaluable friends and the boundary of their society expanded to a very wide range.
 However, today, technical inventions have revolutionized all of them.
-Café, once a knowledge sharing place is now a wifi-sharing place.
-When youths meet each other in a café, what they focus on is not the real human friends but fr
+CafÃ©, once a knowledge sharing place is now a wifi-sharing place.
+When youths meet each other in a cafÃ©, what they focus on is not the real human friends but fr
